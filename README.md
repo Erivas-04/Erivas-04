@@ -1,6 +1,6 @@
 ## Saludos, Soy Eric Garcia!! 👋
 
-
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/ca0870d6-bac7-40a7-9af9-1b58dd2c73c6" />
 
 Desarrollador Fullstack enfocado en **Backend y DevOps**. Trabajo en sistemas de inventarios, puntos de venta, restaurantes, touroperadoras, apps móviles y diversos tipos de enfoque de negocio a sistematizar.
 
